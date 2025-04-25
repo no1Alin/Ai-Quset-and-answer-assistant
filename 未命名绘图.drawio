@@ -1,6 +1,74 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.14" pages="2">
   <diagram name="第 1 页" id="EE1FdvPi0SUPEJO_9L75">
-    <mxGraphModel>
+    <mxGraphModel dx="1034" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6DteigG6Qflv_BQds3x4-3" value="民宿预订系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="80" width="236" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6DteigG6Qflv_BQds3x4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6DteigG6Qflv_BQds3x4-6" target="6DteigG6Qflv_BQds3x4-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6DteigG6Qflv_BQds3x4-6" value="uniapp+VUE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="140" width="176" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6DteigG6Qflv_BQds3x4-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6DteigG6Qflv_BQds3x4-7" target="6DteigG6Qflv_BQds3x4-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6DteigG6Qflv_BQds3x4-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="210" width="216" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6DteigG6Qflv_BQds3x4-9" value="房源管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="326" y="215" width="24" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="6DteigG6Qflv_BQds3x4-10" value="订单管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="215" width="20" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="6DteigG6Qflv_BQds3x4-11" value="搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="215" width="20" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="6DteigG6Qflv_BQds3x4-14" value="联系沟通" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="215" width="16" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="6DteigG6Qflv_BQds3x4-15" value="财务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="215" width="20" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="6DteigG6Qflv_BQds3x4-16" value="设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="215" width="20" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="6DteigG6Qflv_BQds3x4-17" value="...." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="215" width="20" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="6DteigG6Qflv_BQds3x4-23" value="业务接口层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="340" width="176" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6DteigG6Qflv_BQds3x4-25" value="MYSQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="400" width="176" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6DteigG6Qflv_BQds3x4-26" value="服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="450" width="176" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kZzPBTxeL-IcbpN5rvKB-1" value="表示层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kZzPBTxeL-IcbpN5rvKB-3" value="系统功能" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="245" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kZzPBTxeL-IcbpN5rvKB-4" value="接口层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="345" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kZzPBTxeL-IcbpN5rvKB-5" value="数据库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kZzPBTxeL-IcbpN5rvKB-6" value="运行环境" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="455" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mqnN_yWX03HHrvrMGJ0k" name="第 2 页">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
