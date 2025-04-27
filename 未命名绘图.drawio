@@ -298,6 +298,72 @@
         <mxCell id="JYf_qBTW2ln-0y-L0lh0-80" value="房源管理" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="96" y="1460" width="25" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="JYf_qBTW2ln-0y-L0lh0-86" value="民宿预订系统" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="203" y="1624" width="249" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="JYf_qBTW2ln-0y-L0lh0-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JYf_qBTW2ln-0y-L0lh0-88" target="JYf_qBTW2ln-0y-L0lh0-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JYf_qBTW2ln-0y-L0lh0-88" value="uniapp + VUE node.js" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="1705.5" width="142" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="JYf_qBTW2ln-0y-L0lh0-89" value="表示层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1713" width="54" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JYf_qBTW2ln-0y-L0lh0-90" value="业务功能" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1849" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JYf_qBTW2ln-0y-L0lh0-95" value="接口层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1948" width="54" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JYf_qBTW2ln-0y-L0lh0-96" value="数据库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="2011" width="54" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JYf_qBTW2ln-0y-L0lh0-97" value="运行环境" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="2071" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JYf_qBTW2ln-0y-L0lh0-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JYf_qBTW2ln-0y-L0lh0-98" target="JYf_qBTW2ln-0y-L0lh0-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JYf_qBTW2ln-0y-L0lh0-98" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="249" y="1796" width="314" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="JYf_qBTW2ln-0y-L0lh0-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JYf_qBTW2ln-0y-L0lh0-99" target="JYf_qBTW2ln-0y-L0lh0-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JYf_qBTW2ln-0y-L0lh0-99" value="业务接口" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="1948" width="142" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="JYf_qBTW2ln-0y-L0lh0-100" value="房源管理" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="266" y="1814" width="25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JYf_qBTW2ln-0y-L0lh0-101" value="联系沟通" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="412.5" y="1814" width="25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JYf_qBTW2ln-0y-L0lh0-102" value="搜索" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="1814" width="25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JYf_qBTW2ln-0y-L0lh0-103" value="设置红星" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="447" y="1814" width="25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JYf_qBTW2ln-0y-L0lh0-104" value="订单管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="302" y="1814" width="25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JYf_qBTW2ln-0y-L0lh0-105" value="帮助中心" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="482.5" y="1814" width="25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JYf_qBTW2ln-0y-L0lh0-106" value="财务管理" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="375" y="1814" width="25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JYf_qBTW2ln-0y-L0lh0-109" value="..." style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="521" y="1814" width="25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JYf_qBTW2ln-0y-L0lh0-112" value="MYSQL" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="2009" width="142" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="JYf_qBTW2ln-0y-L0lh0-114" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="2071" width="142" height="37" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
